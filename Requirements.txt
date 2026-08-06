@@ -1,8 +1,0 @@
-Requirements
-
-For this project, you must have:
-
-* Pandas >= 2.0
-* Openai >= 1.0
-
-
